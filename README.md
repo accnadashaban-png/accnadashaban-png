@@ -1,49 +1,42 @@
-# Hi, I'm Nada 👋
+## Nada Shaban
 
-**Data Analyst & AI Automation Specialist** · Cairo, Egypt · Arabic & English
+**Data Analyst & AI Evaluation Specialist** · Cairo, Egypt · Arabic & English
 
-I build AI tools, automations and data analyses that answer real business questions. I work in Python and SQL, automate with n8n and Zapier, and test AI systems in Arabic and English.
+I build and test AI assistants that answer questions from data, turn raw activity into metrics teams act on, and automate the work in between. Currently at **Kanz MS** (Feb 2026 – present), working across data, AI evaluation and automation.
 
-🟢 **Open to freelance and remote work:** data analysis and dashboards · n8n / Zapier automation · AI evaluation in Arabic and English
+**Open to remote and freelance work:** AI assistants and evaluation (Arabic + English) · data analysis and dashboards · workflow automation
 
-🌐 [nadashaaban.com](https://nadashaaban.com) · 📫 acc.nadashaban@gmail.com · [LinkedIn](https://www.linkedin.com/in/nada-shaban-048297206)
+[![Website](https://img.shields.io/badge/nadashaaban.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://nadashaaban.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-shaban-048297206)
+[![Email](https://img.shields.io/badge/acc.nadashaban@gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:acc.nadashaban@gmail.com)
 
 ---
 
-## ⭐ Featured work
+### Featured projects
 
-Code from my day job is confidential, so these are written case studies (problem, my role, approach, tools):
+| Project | What it shows | Stack |
+|---|---|---|
+| [**bilingual-market-assistant**](https://github.com/accnadashaban-png/bilingual-market-assistant) | Conversational AI assistant over market data in Arabic dialects and English: LangGraph pipeline, 12 typed tools, safe text-to-SQL with 6 safety layers, streaming chat widget for dashboards, 91 tests incl. red-team, golden-dataset eval in CI | Python · LangGraph · FastAPI · sqlglot · Docker |
+| [**customer-support-analytics**](https://github.com/accnadashaban-png/customer-support-analytics) | Support response time, reply rate and upgrades after support, with bot filtering, UTC-safe metrics, idempotent sync and a filterable dashboard | Python · FastAPI · SQLite · Pydantic |
+| [**arabic-chatbot-eval**](https://github.com/accnadashaban-png/arabic-chatbot-eval) | Pre-launch chatbot evaluation on a tagged golden set across Arabic dialects and English, with an Excel report by dialect and intent | Python · pandas · LLM evaluation |
+| [**market-data-pipeline**](https://github.com/accnadashaban-png/market-data-pipeline) | Stock and crypto screener: momentum, relative strength vs SPY, 50-day moving average | Python · pandas |
+| [**n8n-automation-workflows**](https://github.com/accnadashaban-png/n8n-automation-workflows) | n8n workflow that loads Binance price history into Supabase | n8n · Supabase |
+| [**tradingview-websocket-tools**](https://github.com/accnadashaban-png/tradingview-websocket-tools) | Live price streaming and WebSocket stress testing | Python · WebSockets |
 
-- 🤖 **[AI Trading Assistant](https://github.com/accnadashaban-png/work-case-studies#1-ai-trading-assistant)**: bilingual (Arabic + English) assistant that answers market questions with safe, read-only SQL. Built with a small engineering team: design, prompts, tools, testing and integration.
-- 💬 **[AI Chatbot: Training Data & Pre-Launch Evaluation](https://github.com/accnadashaban-png/work-case-studies#2-customer-facing-ai-chatbot-training-data--pre-launch-evaluation)**: golden test dataset in Arabic dialects, MSA and English, an automated test runner, and the go / no-go report before launch.
-- 📊 **[Market Data Platform: QA, Front End & Data](https://github.com/accnadashaban-png/work-case-studies#3-market-data-platform-qa-front-end--data-team-project)** (team project): tested the dashboard pages and validated their data, built front-end pages with AI-assisted development, and fixed back-end data.
+### Work highlights
 
-📂 All 7 case studies: [**work-case-studies**](https://github.com/accnadashaban-png/work-case-studies)
+Code from my day job is confidential, so I publish [written case studies](https://github.com/accnadashaban-png/work-case-studies) and clean-room public versions:
 
-## What I work on
+- **AI trading assistant:** helped build a bilingual assistant that answers subscriber questions from a database with safe, read-only SQL; design, prompts, tools, testing and integration with the engineering team. → [public version](https://github.com/accnadashaban-png/bilingual-market-assistant)
+- **Chatbot pre-launch evaluation:** golden test dataset in Arabic dialects, MSA and English, an automated test runner, and the go / no-go report. → [public version](https://github.com/accnadashaban-png/arabic-chatbot-eval)
+- **Support analytics dashboard:** built end to end; the support team uses it to track response time and upgrades after support. → [public version](https://github.com/accnadashaban-png/customer-support-analytics)
+- **Market data platform (team project):** tested and validated dashboard data, built front-end pages, fixed back-end data and integrated the AI assistant.
+- **Customer churn & win-back:** found why subscribers leave and built prioritized win-back segments from subscription and payment exports.
+- **Business automation:** n8n and Zapier workflows for support tickets, reminders, failed payments, onboarding and a daily market brief.
 
-These are the kinds of projects I build:
+### Skills
 
-- **AI assistants:** bilingual (Arabic + English) assistants that answer questions from a database using safe, read-only SQL, with automated tests (Python, LangChain, Gemini, PostgreSQL, FastAPI)
-- **AI evaluation:** test datasets in Arabic dialects and English, pre-launch testing of chatbots, and clear go / no-go reports
-- **Dashboards:** internal dashboards that turn raw activity into metrics a team can act on
-- **Customer analytics:** churn analysis, customer segmentation and win-back lists from subscription and payment exports
-- **Automation:** n8n and Zapier workflows for support, onboarding, reminders and daily reports
-- **Market data:** Python pipelines that collect price data and compute indicators
-
-## Public projects
-
-- [**bilingual-market-assistant**](https://github.com/accnadashaban-png/bilingual-market-assistant): conversational Arabic + English AI market assistant: LangGraph pipeline, typed tools, safe text-to-SQL, streaming chat widget, red-team tests and golden-dataset eval
-- [**customer-support-analytics**](https://github.com/accnadashaban-png/customer-support-analytics): support response time, reply rate and upgrades after support, with bot filtering, idempotent sync and a dashboard
-- [**arabic-chatbot-eval**](https://github.com/accnadashaban-png/arabic-chatbot-eval): evaluates a chatbot on a golden set across Arabic dialects and English, with an Excel report
-- [**market-data-pipeline**](https://github.com/accnadashaban-png/market-data-pipeline): stock and crypto screener (momentum, relative strength vs SPY, 50-day MA) in Python
-- [**tradingview-websocket-tools**](https://github.com/accnadashaban-png/tradingview-websocket-tools): live price streaming and WebSocket stress testing
-- [**n8n-automation-workflows**](https://github.com/accnadashaban-png/n8n-automation-workflows): n8n workflow that loads Binance price history into Supabase
-
-## Tools
-
-`Python (intermediate)` `pandas` `SQL` `Excel / Power Query` `Power BI` `GA4` `n8n` `Zapier` `LangChain` `Gemini` `Claude Code` `Cursor` `FastAPI`
-
-## Currently learning
-
-Growing my Python and AI engineering skills, especially LLM evaluation and AI agents.
+**AI:** LLM evaluation · golden datasets · prompt design · LangChain / LangGraph · Gemini · red-team testing
+**Data:** Python · pandas · SQL · Excel / Power Query · Power BI · GA4
+**Engineering:** FastAPI · SQLite / PostgreSQL · pytest · Docker · GitHub Actions
+**Automation:** n8n · Zapier · Zendesk
