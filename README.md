@@ -33,6 +33,9 @@ These are the kinds of projects I build:
 
 ## Public projects
 
+- [**bilingual-market-assistant**](https://github.com/accnadashaban-png/bilingual-market-assistant): ChatGPT-style Arabic + English market assistant: LangGraph pipeline, typed tools, safe text-to-SQL, streaming chat widget, red-team tests and golden-dataset eval
+- [**customer-support-analytics**](https://github.com/accnadashaban-png/customer-support-analytics): support response time, reply rate and upgrades after support, with bot filtering, idempotent sync and a dashboard
+- [**arabic-chatbot-eval**](https://github.com/accnadashaban-png/arabic-chatbot-eval): evaluates a chatbot on a golden set across Arabic dialects and English, with an Excel report
 - [**market-data-pipeline**](https://github.com/accnadashaban-png/market-data-pipeline): stock and crypto screener (momentum, relative strength vs SPY, 50-day MA) in Python
 - [**tradingview-websocket-tools**](https://github.com/accnadashaban-png/tradingview-websocket-tools): live price streaming and WebSocket stress testing
 - [**n8n-automation-workflows**](https://github.com/accnadashaban-png/n8n-automation-workflows): n8n workflow that loads Binance price history into Supabase
