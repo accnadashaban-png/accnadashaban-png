@@ -34,6 +34,8 @@ Code from my day job is confidential, so I publish [written case studies](https:
 - **Support analytics dashboard:** built end to end; the support team uses it to track response time and upgrades after support. → [public version](https://github.com/accnadashaban-png/customer-support-analytics)
 - **Market data platform (team project):** tested and validated dashboard data, built front-end pages, fixed back-end data and integrated the AI assistant.
 - **Customer churn & win-back:** found why subscribers leave and built prioritized win-back segments from subscription and payment exports.
+- **Dashboard QA review:** exploratory QA of a bilingual market dashboard; 19 issues documented with screenshots across bugs, content, Arabic wording and usability.
+- **Content backup tool:** read-only Python tool that backs up a community platform's posts and media through its admin API, with safe re-runs.
 - **Business automation:** n8n and Zapier workflows for support tickets, reminders, failed payments, onboarding and a daily market brief.
 
 ### Skills
