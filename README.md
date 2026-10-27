@@ -33,7 +33,7 @@ These are the kinds of projects I build:
 
 ## Public projects
 
-- [**bilingual-market-assistant**](https://github.com/accnadashaban-png/bilingual-market-assistant): ChatGPT-style Arabic + English market assistant: LangGraph pipeline, typed tools, safe text-to-SQL, streaming chat widget, red-team tests and golden-dataset eval
+- [**bilingual-market-assistant**](https://github.com/accnadashaban-png/bilingual-market-assistant): conversational Arabic + English AI market assistant: LangGraph pipeline, typed tools, safe text-to-SQL, streaming chat widget, red-team tests and golden-dataset eval
 - [**customer-support-analytics**](https://github.com/accnadashaban-png/customer-support-analytics): support response time, reply rate and upgrades after support, with bot filtering, idempotent sync and a dashboard
 - [**arabic-chatbot-eval**](https://github.com/accnadashaban-png/arabic-chatbot-eval): evaluates a chatbot on a golden set across Arabic dialects and English, with an Excel report
 - [**market-data-pipeline**](https://github.com/accnadashaban-png/market-data-pipeline): stock and crypto screener (momentum, relative strength vs SPY, 50-day MA) in Python
