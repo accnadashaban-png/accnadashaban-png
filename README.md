@@ -25,6 +25,8 @@ I build and test AI assistants that answer questions from data, turn raw activit
 
 ### Work highlights
 
+**Work activity in private repositories (2026):** 270+ commits · 34 pull requests opened · involved in 47 pull requests (discussions on 18, reviews on 5). Most of my GitHub activity is in private company repositories, so it shows on my graph as private contributions.
+
 Code from my day job is confidential, so I publish [written case studies](https://github.com/accnadashaban-png/work-case-studies) and clean-room public versions:
 
 - **AI trading assistant:** helped build a bilingual assistant that answers subscriber questions from a database with safe, read-only SQL; design, prompts, tools, testing and integration with the engineering team. → [public version](https://github.com/accnadashaban-png/bilingual-market-assistant)
