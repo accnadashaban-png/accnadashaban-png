@@ -16,12 +16,11 @@ I build and test AI assistants that answer questions from data, turn raw activit
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**bilingual-market-assistant**](https://github.com/accnadashaban-png/bilingual-market-assistant) | Conversational AI assistant over market data in Arabic dialects and English, also a private local app with your own data and AI keys: LangGraph pipeline, 14 typed tools, safe read-only SQL, AI provider failover, MCP server, chat widget, 156 tests incl. red-team, 536-question eval in CI | Python · LangGraph · FastAPI · PostgreSQL · Docker |
-| [**customer-support-analytics**](https://github.com/accnadashaban-png/customer-support-analytics) | Support analytics for any team: open queue, business-hours response times, SLA, topics and upgrades; live webhook for website chat and DMs (n8n template), fair metrics checked by exact scenarios | Python · FastAPI · SQLite · n8n |
-| [**arabic-chatbot-eval**](https://github.com/accnadashaban-png/arabic-chatbot-eval) | Pre-launch chatbot evaluation (1,769-question golden set in 8 dialects, held-out set, 47-attack red team, GO / NO-GO report) plus a customer-support bot any business can run: live database, AI provider failover, embeddable widget | Python · LLM evaluation · PostgreSQL |
-| [**market-data-pipeline**](https://github.com/accnadashaban-png/market-data-pipeline) | Stock and crypto screener: momentum, relative strength vs SPY, 50-day moving average | Python · pandas |
+| [**bilingual-market-assistant**](https://github.com/accnadashaban-png/bilingual-market-assistant) | Arabic + English AI assistant over **live** market data: saves each person's conversations, answers with tables, charts and follow-up questions; also a private local app with your own data and keys | Python · LangGraph · FastAPI · PostgreSQL · Docker |
+| [**customer-support-analytics**](https://github.com/accnadashaban-png/customer-support-analytics) | Support analytics for any team: open queue, business-hours response times, SLA, upgrades, and topics scored over the whole conversation (**90.9% accurate** on unseen hand-labeled chats); live webhook or CSV/JSON | Python · FastAPI · SQLite · n8n |
+| [**arabic-chatbot-eval**](https://github.com/accnadashaban-png/arabic-chatbot-eval) | Pre-launch chatbot evaluation (**3,613-question** golden set, 45 topics, 8 dialects, held-out set, 47-attack red team, GO / NO-GO) plus a support bot any business can run, with saved chats and an admin console | Python · LLM evaluation · PostgreSQL |
+| [**market-data-pipeline**](https://github.com/accnadashaban-png/market-data-pipeline) | Earlier project: stock and crypto screener: momentum, relative strength vs SPY, 50-day moving average | Python · pandas |
 | [**n8n-automation-workflows**](https://github.com/accnadashaban-png/n8n-automation-workflows) | n8n workflow that loads Binance price history into Supabase | n8n · Supabase |
-| [**tradingview-websocket-tools**](https://github.com/accnadashaban-png/tradingview-websocket-tools) | Live price streaming and WebSocket stress testing | Python · WebSockets |
 
 ### Work highlights
 
@@ -31,7 +30,7 @@ Code from my day job is confidential, so I publish [written case studies](https:
 
 - **AI trading assistant:** helped build a bilingual assistant that answers subscriber questions from a database with safe, read-only SQL; design, prompts, tools, testing and integration with the engineering team. → [public version](https://github.com/accnadashaban-png/bilingual-market-assistant)
 - **Chatbot pre-launch evaluation:** golden test dataset in Arabic dialects, MSA and English, an automated test runner, and the go / no-go report; the public version adds a held-out set, a red team and a support bot. → [public version](https://github.com/accnadashaban-png/arabic-chatbot-eval)
-- **Support analytics dashboard:** built end to end; the support team uses it to track response time and upgrades after support. → [public version](https://github.com/accnadashaban-png/customer-support-analytics)
+- **Support analytics dashboard:** built the tool; the support team uses it to track response time and upgrades after support. → [public version](https://github.com/accnadashaban-png/customer-support-analytics)
 - **Market data platform (team project):** tested and validated dashboard data, built front-end pages, fixed back-end data and integrated the AI assistant.
 - **Customer churn & win-back:** found why subscribers leave and built prioritized win-back segments from subscription and payment exports.
 - **Dashboard QA review:** exploratory QA of a bilingual market dashboard; 19 issues documented with screenshots across bugs, content, Arabic wording and usability.
