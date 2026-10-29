@@ -8,7 +8,7 @@ I build and test AI assistants that answer questions from data, turn raw activit
 
 [![Website](https://img.shields.io/badge/nadashaaban.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://nadashaaban.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-shaban-048297206)
-[![Email](https://img.shields.io/badge/acc.nadashaban@gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:acc.nadashaban@gmail.com)
+[![Email](https://img.shields.io/badge/contact@nadashaaban.com-555?style=flat-square&logo=minutemailer&logoColor=white)](mailto:contact@nadashaaban.com)
 
 ---
 
